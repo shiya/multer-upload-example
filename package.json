@@ -1,0 +1,15 @@
+{
+  "name": "multer-upload-example",
+  "version": "1.0.0",
+  "description": "A simple example showing how to use multer in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiya Luo <luo.shiya@gmail.com> (http://www.shiyaluo.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
